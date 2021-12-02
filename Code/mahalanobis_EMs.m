@@ -1,0 +1,1 @@
+function [] = mahal_Dist(Y,X)  
